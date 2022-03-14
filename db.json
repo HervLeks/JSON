@@ -1,22 +1,16 @@
-{
-    
- "account" :{
+{"account" :{
      "name" : "Hervé",
      "lastname" : "Leka",
      "lastconnected" : "2022/01/25",
-     "email" : "rvmalvin@live.fr"
-    },
-    
+     "email" : "rvmalvin@live.fr"},
 "request" :{
-
-            "userId" :  "1",
-            "location" : {
-                "latitude" : 0,
-                "longitude" : 0
-                },
-            "drugs" : [{"name" : "Clamoxyl"},
-                       {"name" : "Doliprane"}],
-            "time" : "2022/02/03",
-            "ray" : 10
-            }
+    "userId" :  "1",
+    "location" : {
+        "latitude" : 0,
+        "longitude" : 0
+        },
+    "drugs" : [{"name" : "Clamoxyl"},
+               {"name" : "Doliprane"}],
+    "time" : "2022/02/03",
+    "ray" : 10 }
 }
