@@ -1,8 +1,8 @@
 {
 "userId" :  "1",
 "location" : {
-    "latitude" : 00,
-    "longitude" : 00
+    "latitude" : 0,
+    "longitude" : 0
     }
 "drugs" : [{"name" : "Clamoxyl"},
            {"name" : "Doliprane"}],
