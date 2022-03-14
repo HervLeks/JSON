@@ -3,7 +3,7 @@
 "location" : {
     "latitude" : 0,
     "longitude" : 0
-    }
+    },
 "drugs" : [{"name" : "Clamoxyl"},
            {"name" : "Doliprane"}],
 "time" : "2022/02/03",
