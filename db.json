@@ -1,7 +1,7 @@
 {"account" :{
      "name" : "Hervé",
      "lastname" : "Leka",
-     "lastconnected" : "2022/01/25",
+     "lastconnected" : "2022-01-25T02:50:10.208Z",
      "email" : "rvmalvin@live.fr"},
 "request" :{
     "userId" :  "1",
@@ -11,6 +11,6 @@
         },
     "drugs" : [{"name" : "Clamoxyl"},
                {"name" : "Doliprane"}],
-    "time" : "2022/02/03",
+    "time" : "2022-02-03T02:50:10.208Z",
     "ray" : 10 }
 }
