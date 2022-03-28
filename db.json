@@ -2,7 +2,7 @@
      "name" : "Hervé",
      "lastname" : "Leka",
      "sexe" : "Homme",
-     "type" : "Client",
+     "type" : 0,
      "lastconnected" : "2022-01-25T02:50:10.208Z",
      "email" : "rvmalvin@live.fr"},
 "request" :{
